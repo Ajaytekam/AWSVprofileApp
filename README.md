@@ -1,5 +1,7 @@
 # AWS Vprofile App Deployment  
 
+Deploying vprofile Java Application on AWS Cloud using services like ec2 instance, ELB, S3/EFS, Route53, Certificate Manager, Autoscaling etc.  
+
 ## Technologies 
 
 * Web Application
